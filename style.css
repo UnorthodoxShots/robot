@@ -1,0 +1,53 @@
+body {
+	margin: 35px;
+	background-color:#000;
+	padding: 50px;
+}
+
+#container{
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	background-color: #000; }
+
+h1{color:red;
+border: none;
+  color: red;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 96px;
+  margin: 4px 2px; 
+		width: 100%; 
+		margin-top: 50px; 
+		margin-bottom: 50px; 
+		margin-left: auto; 
+		margin-right: auto;
+		clear: both;}
+
+
+button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 72px;
+  margin: 4px 2px;
+  cursor: pointer;
+		background-color: red; 
+		width: 100%; 
+		margin-top: 50px; 
+		margin-bottom: 50px; 
+		margin-left: auto; 
+		margin-right: auto;
+		clear: both;
+}
+
+button:hover {
+  border: crimson;
+  border-block-color: white;
+  color: white;
+}
