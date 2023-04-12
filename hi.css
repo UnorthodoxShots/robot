@@ -1,3 +1,4 @@
 body {background: url(https://raw.githubusercontent.com/UnorthodoxShots/robot/main/face.jpg);
-    background-size: 100%:
+    background-size: cover;
+    background-repeat: no-repeat;
 	}
